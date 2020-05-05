@@ -6,7 +6,6 @@
 ## Built With
 
 - JavaScript
-- Webpack
 
 
 ## Getting Started
@@ -23,7 +22,7 @@
 
 - Clone the project to your computer.
 - run: npm install.
-- run: npm run build.
+- run: npm test.
 
 ## Authors
 
