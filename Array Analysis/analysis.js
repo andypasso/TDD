@@ -11,4 +11,4 @@ const analysis = {
   length: (array) => array.length,
 };
 
-module.exports = analysis;
+export default analysis;

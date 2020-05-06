@@ -1,4 +1,4 @@
-const analysis = require('./analysis');
+import analysis from './analysis';
 
 it('works', () => {
   expect(1).toBe(1);

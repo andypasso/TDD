@@ -1,6 +1,6 @@
 // A calculator object that contains the basic operations: add, subtract, divide, and multiply.
 
-const calculator = require('./calculator');
+import calculator from './calculator';
 
 
 it('sums 3+2', () => {

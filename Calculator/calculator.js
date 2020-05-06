@@ -4,4 +4,4 @@ const calculator = {
   divide: (a, b) => a / b,
   multiply: (a, b) => a * b,
 };
-module.exports = calculator;
+export default calculator;

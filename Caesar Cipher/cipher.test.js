@@ -1,4 +1,4 @@
-const cipher = require('./cipher');
+import cipher from './cipher';
 
 it('encrypts(example 1)', () => {
   expect(cipher.encrypt('hello nemo', 3)).toBe('khoor qhpr');

@@ -1,6 +1,6 @@
 // capitalize(string) takes a string and returns that string with the first character capitalized.
 
-const capitalize = require('./capitalize.js');
+import capitalize from './capitalize';
 
 it('happy path (Example 1)', () => {
   expect(capitalize('hello')).toBe('Hello');

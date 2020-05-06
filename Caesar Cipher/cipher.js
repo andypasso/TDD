@@ -23,4 +23,4 @@ const cipher = {
   },
 };
 
-module.exports = cipher;
+export default cipher;
